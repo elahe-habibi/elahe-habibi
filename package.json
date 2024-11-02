@@ -1,3 +1,25 @@
-"# My Project" 
-hiiiiiiiiiiiiiii eliiiiiiii
-i love you dear
+{
+  "name": "habibi",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "run": "node app.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "slugify": "^1.6.6",
+    "uuid": "^11.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.7"
+  }
+}
