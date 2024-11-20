@@ -1,3 +1,15 @@
-"# My Project" 
-hiiiiiiiiiiiiiii eliiiiiiii
-i love you dear
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "\"# My Project\" \r hiiiiiiiiiiiiiii eliiiiiiii\r i love you dear",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "slugify": "^1.6.6"
+  }
+}
