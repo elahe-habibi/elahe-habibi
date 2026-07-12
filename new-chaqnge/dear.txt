@@ -1,2 +1,0 @@
-PS C:\Users\Fanap_Dotin\Desktop\my-project>    git branch new-fix-bug
-PS C:\Users\Fanap_Dotin\Desktop\my-project> 
